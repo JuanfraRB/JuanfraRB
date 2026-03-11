@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan Francisco Rodríguez 👋 
 ### Desarrollador de Aplicaciones Multiplataforma (DAM) 🚀
 
-<p align="center">
+<p align="left">
  <img src="https://juanfrarb.netlify.app/assets/jfrbicono.png" width="120" alt="Logo JFRB">
 </p>
 
@@ -53,3 +53,4 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 [![Portfolio](https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge)](https://juanfrarb.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrarb@outlook.es)
+
