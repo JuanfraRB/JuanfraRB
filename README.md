@@ -35,8 +35,8 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 ### 📊 Mis Estadísticas de GitHub
 
 <p style="text-align:left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanfraRB&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfraRB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanfrarb&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfrarb&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
@@ -54,5 +54,6 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 [![Portfolio](https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge)](https://juanfrarb.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrarb@outlook.es)
+
 
 
