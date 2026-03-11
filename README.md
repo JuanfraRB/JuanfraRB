@@ -1,11 +1,12 @@
 # ¡Hola! Soy Juan Francisco Rodríguez 👋 
 ### Desarrollador de Aplicaciones Multiplataforma (DAM) 🚀
 
+
 <p style="text-align:left">
  <img src="https://juanfrarb.netlify.app/assets/jfrbicono.png" width="120" alt="Logo JFRB">
 </p>
 
-Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque principal es el desarrollo **Backend con Java** y **Frontend con Angular**, siempre con un ojo puesto en la arquitectura de bases de datos.
+Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque principal es el desarrollo **Backend con Java** y **Frontend con Angular, JavaFX y Java Swing**, siempre con un ojo puesto en la arquitectura de bases de datos.
 
 
 ---
@@ -15,8 +16,8 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 **Lenguajes y Frameworks:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java Swing](https://img.shields.io/badge/Java%20Swing-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Bases de Datos:**
@@ -54,6 +55,3 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 [![Portfolio](https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge)](https://juanfrarb.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrarb@outlook.es)
-
-
-
