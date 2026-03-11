@@ -1,7 +1,7 @@
 # ¡Hola! Soy Juan Francisco Rodríguez 👋 
 ### Desarrollador de Aplicaciones Multiplataforma (DAM) 🚀
 
-<p align="left">
+<p style="text-align:left">
  <img src="https://juanfrarb.netlify.app/assets/jfrbicono.png" width="120" alt="Logo JFRB">
 </p>
 
@@ -23,6 +23,7 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-orange?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/sqlite-%2301B6F5.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Herramientas:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,7 +34,7 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 
 ### 📊 Mis Estadísticas de GitHub
 
-<p align="center">
+<p style="text-align:left">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanfraRB&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanfraRB&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
@@ -53,4 +54,5 @@ Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque princ
 [![Portfolio](https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge)](https://juanfrarb.netlify.app/)
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrarb@outlook.es)
+
 
