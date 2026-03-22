@@ -3,7 +3,7 @@
 
 
 <p style="text-align:left">
- <img src="https://juanfrarb.netlify.app/assets/jfrbicono.png" width="120" alt="Logo JFRB">
+ <img src="https://juanfrarb.netlify.app/assets/mi_logo-256.webp" width="120" alt="Logo JFRB">
 </p>
 
 Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque principal es el desarrollo **Backend con Java** y **Frontend con Angular, JavaFX y Java Swing**, siempre con un ojo puesto en la arquitectura de bases de datos.
