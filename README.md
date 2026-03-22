@@ -3,7 +3,7 @@
 
 
 <p style="text-align:left">
- <img src="[https://juanfrarb.netlify.app/assets/mi_logo-256.webp](https://juanfrarb.netlify.app/assets/mi_logo.webp)" width="120" alt="Logo JFRB">
+ <img src="https://juanfrarb.netlify.app/assets/mi_logo-256.webp" width="120" alt="Logo JFRB">
 
 </p>
 
