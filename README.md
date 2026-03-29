@@ -1,48 +1,49 @@
-# ¡Hola! Soy Juan Francisco Rodríguez 👋 
-### Desarrollador de Aplicaciones Multiplataforma (DAM) 🚀
-
-
 <p align="center">
   <img src="https://juanfrarb.netlify.app/assets/mi_logo.webp" alt="Logo JFRB" width="120">
 </p>
 
-Me apasiona crear soluciones de software robustas y eficientes. Mi enfoque principal es el desarrollo **Backend con Java** y **Frontend con Angular, JavaFX y Java Swing**, siempre con un ojo puesto en la arquitectura de bases de datos.
+<h1 align="center">¡Hola! Soy Juanfra 👋</h1>
 
-
----
-
-### 🛠️ Tecnologías
-
-**Lenguajes y Frameworks:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Java Swing](https://img.shields.io/badge/Java%20Swing-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-**Bases de Datos:**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-orange?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/sqlite-%2301B6F5.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p style="text-align:left">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanfrarb&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfrarb&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+<p align="center">
+  Desarrollador Full Stack & Android · Técnico Superior en DAM · Almería, España
 </p>
 
 ---
 
+Me he pasado más de 15 años trabajando en sectores muy distintos antes de dedicarme al desarrollo de software. Eso me ha dado algo que no se aprende en ningún curso: disciplina, adaptabilidad y las ganas de hacer las cosas bien.
 
-### 📫 Contacto
+Ahora construyo aplicaciones multiplataforma con Java, Android, Angular y Node.js. Me gusta el código limpio, los proyectos bien estructurados y aprender algo nuevo con cada proyecto.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/juan-francisco-rodríguez-berenguel-356b931b1)
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Global-blue?style=for-the-badge)](https://juanfrarb.netlify.app/)
+### 🛠️ Tecnologías con las que trabajo
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfrarb@outlook.es)
+**Backend & Mobile**
+Java · Android · Node.js · PHP · PL/SQL · Oracle · SQLite · Hibernate · Odoo
+
+**Frontend**
+Angular · TypeScript · HTML5 · CSS3 · Ionic · JavaFX · Java Swing
+
+**Herramientas**
+Git · GitHub · Odoo ERP
+
+---
+
+### 🚀 Proyectos
+
+- **[Portfolio Angular](https://juanfrarb.netlify.app)** — Angular 18, SSR, prerender, PageSpeed 100/100
+- **[Portfolio HTML](https://mi-portafolio-html.vercel.app)** — versión en HTML/CSS/JS puro, sin dependencias
+- **[Dragon Ball App](https://bola-de-drag-n.vercel.app)** — explorador del universo Dragon Ball con la API oficial
+- **[TimeTrack](https://github.com/JuanfraRB/mi-portafolio)** — gestión de tiempos multiusuario con Sockets TCP/IP en Java
+- **[Linterna JFRB](https://github.com/JuanfraRB/LinternaJFRB)** — app Android nativa multifunción
+- **[Básicos Java](https://github.com/JuanfraRB/BasicosJava)** — colección de ejercicios progresivos en Java desde cero
+
+---
+
+### 📬 Contacto
+
+¿Tienes un proyecto en mente o simplemente quieres charlar sobre código?
+
+- 🌐 [juanfrarb.netlify.app](https://juanfrarb.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/juan-francisco-rodr%C3%ADguez-berenguel-356b931b1)
+- 📧 JuanfraRB@outlook.es
